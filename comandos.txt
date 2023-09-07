@@ -1,0 +1,21 @@
+Git init para iniciar un repositorio (ya estando en la carpeta en la cual uieres hacerlo)
+
+git clone -(link) para clonar un repositorio extraido del git hub
+
+git add . (Para guardar todos los cambios del archivo)
+
+git commit -m 'Agregando comando al git' (Actualizando los cambios y el -m Agrega un mensaje)
+
+git remove -v para saber si esta conectado a un repositorio en git-hub
+
+git push origin main (para Actualizarlo) se tiene que poner en que rama en la cual estabas trabajando
+
+se tiene que dar permisos para poder modificarlo para el github que se envia una invitacion havia tu correo la aceptas y ya ppodes modificarlo
+
+git checkout (rama) puedes viajar entre ramas
+
+git checkout -b (nombre de rama) para crear ramas
+
+touch (nombre de archivo) para crear un archivo
+
+al ser diferentes ramas y hacs un cambio en un rama ese cambiio se guarda pero en la rama ya hecha no en la rama principal
